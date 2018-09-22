@@ -1,4 +1,4 @@
-Very small plugin to  easily edit hunk patch by toggling lines.
+Very small plugin to easily stage lines.
 A plugin takes care of range line.
 
 ![example](assets/tty.gif)
